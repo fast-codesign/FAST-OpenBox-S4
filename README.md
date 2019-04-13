@@ -1,5 +1,5 @@
 # FAST-OpenBox_S4-impl
-### What are these files
+### What are these files?
 
 This is a FAST implementation on OpenBox S4 (using Xilinx zynq 7000 SoC). Learn more about FAST from [here](http://www.fastswitch.org).
 
@@ -47,7 +47,7 @@ users are able to create their own apps using FAST API. To write yourown code:
 
 Note: FAST API is defined in `fast-sw/include/` , you can read them before you write your own software code. As FAST is fully opensourced, **you can also invoke/write API for your own convenience**.
 
-####Write your own software code within UM pipeline
+#### Write your own software code within UM pipeline
 
 As the PL part is based on a Xilinx FPGA board, you can simply use Xilinx IDE (Vivado) to develop your hardware logics. 
 
