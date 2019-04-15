@@ -59,7 +59,7 @@ We have encapsulate the platform related designs into netlist so there is nothin
 
 The most tricky thing here is to install cross-compile the `fast-sw` project on a x86 Linux PC before you can run them on the OpenBox S4 box.
 
-If you don't know what is **cross-compile** and how to cross-compile the project. This [web]() may be helpful. 
+If you don't know what is **cross-compile** and how to cross-compile the project. This [web]() may be helpful. **We also provide users with a virtual machine that already installed the environment for cross-compile**. You can find it [here](https://pan.baidu.com/s/1WbF6FwBU2Jp5k3uDcUaLsQ#list/path=%2F&parentPath=%2Fsharelink1884726292-1101305735633291) with the access passwd: **r7gz**. THE VIRTUAL MACHHINE IS IN `fast/1.0/OpenBox-S4/` directory.
 
 After you prepare the cross-compile settings, the procedure is like this:
 
