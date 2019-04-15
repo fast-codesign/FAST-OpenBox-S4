@@ -31,7 +31,7 @@ FAST provides users with clear and understandable programming abstractions both 
 
 users are able to create their own apps using FAST API. To write yourown code:
 
-1. `cd` to `fast-sw/app/`, create your own directory using `madir`.
+1. `cd` to `fast-sw/app/`, create your own directory using `mkdir`.
 
 2. create a blank c file, `include` FAST headers at the beginning.
 
